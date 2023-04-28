@@ -95,3 +95,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.card {
+   display: flex;
+   border: solid black;
+   border-width: 0.5rem;
+   border-radius: 21px;
+}
